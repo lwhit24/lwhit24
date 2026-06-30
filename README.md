@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lwhit24
 - 👀 I’m interested in all things Data & Analytics
-- 🌱 I’m currently a Data & AI Consultant at Methods Analytics
+- 🌱 I’m currently a Solutions Engineer at Alteryx
 - 💞️ I’m looking to run my own and collaborate on various projects to showcase key skills
 
 <!---
